@@ -1,4 +1,4 @@
-#Aadvent of Code - D1
+# Advent of Code - D1
 
 First day of code! Yeey! Started with a brute force solution, with very bad O, but will add other methods too. 
 
