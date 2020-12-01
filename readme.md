@@ -1,6 +1,6 @@
 # Advent of Code - D1
 
-First day of code! Yeey! Started with a brute force solution, with very bad O, but will add other methods too. 
+First day of code! Yeey! Have multiple solutions: bruteforce and hashmap.
 
 --- Day 1: Report Repair ---
 After saving Christmas five years in a row, you've decided to take a vacation at a nice resort on a tropical island. Surely, Christmas will go on without you.
